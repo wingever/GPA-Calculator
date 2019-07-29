@@ -4,4 +4,11 @@
 ## 项目运行
 + 下载项目
 
-> git clone 
+  > git clone https://github.com/wingever/GPA-Calculator.git
+  
++ 安装依赖
+
+  > npm install
++ 运行项目
+  
+  > npm start
