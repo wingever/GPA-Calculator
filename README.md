@@ -12,3 +12,10 @@
 + 运行项目
   
   > npm start
+
+
+效果图：（计算算法部分未做准确定义，瞎算了一下）
+
+![](https://github.com/wingever/GPA-Calculator/blob/master/image/1.png)
+![](https://github.com/wingever/GPA-Calculator/blob/master/image/2.png)
+![](https://github.com/wingever/GPA-Calculator/blob/master/image/3.png)
